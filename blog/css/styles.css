@@ -1,0 +1,23 @@
+body {
+  background-color: #72B4B2;
+}
+.post_one {
+  font-size: 20px;
+  text-align: center;
+  border: solid 2px #DA28E5;
+  margin-bottom: 15px;
+}
+
+.post_two {
+  font-style: bold;
+  text-align: center;
+  border: dotted 4px #E58C28;
+}
+.about_us{
+  margin-top: 40px;
+  font-size: 30px;
+  color: #F2EB34;
+}
+span {
+  font-style: italic;
+}
